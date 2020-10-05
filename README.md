@@ -1,8 +1,8 @@
 # DataScience_DL
 
 
-Model	Size	| Top-1 Accuracy	| Top-5 Accuracy	| Parameters	| Depth
-------------|-----------------|-----------------|-------------|------|
+Model	| Size	| Top-1 Accuracy	| Top-5 Accuracy	| Parameters	| Depth
+------|------|-----------------|-----------------|-------------|------|
 Xception	| 88 MB	| 0.790	| 0.945	| 22,910,480	| 126
 VGG16	| 528 MB	| 0.713	| 0.901	| 138,357,544	| 23
 VGG19	| 549 MB	| 0.713	| 0.900	| 143,667,240	| 26
